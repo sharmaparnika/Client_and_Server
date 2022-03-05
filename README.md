@@ -1,4 +1,4 @@
-# Client_and_Server
+# Client and Server Model
 
 Aim: Implement a Socket Programming for Client – Server model 
 
